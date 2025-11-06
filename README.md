@@ -25,14 +25,14 @@ Slice fruits with a moving knife, pick up and move the sliced halves, and trigge
 ---
 
 ## Controls
-
+```
  Action                 | Key / Input 
  Move Knife Up / Down   | ↑ / ↓ 
  Slice Fruit            | Knife passes through fruit 
  Select Fruit Half      | Left Mouse Click 
  Move Selected Half     | ← / → 
  Spawn Next Fruit       | Move half into trigger zone 
-
+```
 ---
 
 ##  Project Structure
