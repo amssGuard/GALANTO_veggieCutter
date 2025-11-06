@@ -7,7 +7,7 @@ Chop fruits with a moving knife, pick up and move the sliced halves, and trigger
 
 ## Gameplay Overview
 
-- Control the **knife** to slice fruits using arrow keys.  
+- Control the **knife** to slice fruits using **arrow keys**(↑ ↓).  
 - Once cut, the fruit splits into two physics-based halves.  
 - Pick up each half individually using your **mouse click**.  
 - Move the selected half with **arrow keys** (← →).  
