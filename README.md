@@ -51,4 +51,4 @@ Assets/
 ├── Scenes/
 │ └── MainScene.unity
 └── Materials/
-└── (Fruit and Table Materials)```
+└── (Fruit and Table Materials)
