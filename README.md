@@ -36,7 +36,7 @@ Slice fruits with a moving knife, pick up and move the sliced halves, and trigge
 ---
 
 ##  Project Structure
-```
+```bash
 Assets/
 ├── Scripts/
 │ ├── Blade.cs
@@ -52,3 +52,11 @@ Assets/
 │ └── MainScene.unity
 └── Materials/
 └── (Fruit and Table Materials)
+```
+
+
+##  How to Run
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/amssGuard/GALANTO_veggieCutter.git
