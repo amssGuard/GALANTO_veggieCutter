@@ -20,6 +20,7 @@ Slice fruits with a moving knife, pick up and move the sliced halves, and trigge
  Fruit cutting mechanic using **colliders and physics**  
  Interactive **selection system** for moving individual halves  
  **Trigger-based fruit spawner** to keep gameplay continuous  
+ Made in Unity 6000
   
 
 ---
