@@ -1,7 +1,7 @@
 # Fruit Cut — Unity Mini Game
 
 A simple and interactive **3D Fruit Cutting Game** made in **Unity**.  
-Slice fruits with a moving knife, pick up and move the sliced halves, and trigger new spawns dynamically.
+Chop fruits with a moving knife, pick up and move the sliced halves, and trigger new spawns dynamically.
 
 ---
 
