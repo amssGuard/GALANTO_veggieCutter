@@ -5,7 +5,6 @@ public class FruitHalf : MonoBehaviour
     private bool isSelected = false;
     public float moveSpeed = 3f;
 
-    // Optional highlight when selected
     public Color highlightColor = Color.yellow;
     private Color originalColor;
     private Renderer rend;
@@ -19,7 +18,6 @@ public class FruitHalf : MonoBehaviour
 
     void OnMouseDown()
     {
-        // Toggle selection on click
         isSelected = !isSelected;
 
         if (rend != null)
